@@ -10,6 +10,8 @@
     "start": "node src/server.js",
     "test": "node --test test/*.test.js",
     "build": "node scripts/check.js",
-    "probe": "node src/probe.js"
+    "probe": "node src/probe.js",
+    "collect": "node src/collector/cli.js",
+    "demo": "node scripts/demo.js"
   }
 }

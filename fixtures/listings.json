@@ -1,0 +1,29 @@
+[
+  {
+    "id": "room-101",
+    "version": 1,
+    "district": "东园",
+    "area": 68,
+    "rent": 3200,
+    "contactName": "合成人物甲",
+    "contactPhone": "SYNTHETIC-PHONE-101"
+  },
+  {
+    "id": "room-102",
+    "version": 1,
+    "district": "北桥",
+    "area": 45,
+    "rent": 2100,
+    "contactName": "合成人物乙",
+    "contactPhone": "SYNTHETIC-PHONE-102"
+  },
+  {
+    "id": "room-103",
+    "version": 1,
+    "district": "南林",
+    "area": 91,
+    "rent": 4300,
+    "contactName": "合成人物丙",
+    "contactPhone": "SYNTHETIC-PHONE-103"
+  }
+]
